@@ -1,0 +1,5 @@
+C:\Projects\_WebServices\DragonQuestService\DragonQuestService\bin\DragonQuestService.dll
+C:\Projects\_WebServices\DragonQuestService\DragonQuestService\bin\DragonQuestService.pdb
+C:\Projects\_WebServices\DragonQuestService\DragonQuestService\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\_WebServices\DragonQuestService\DragonQuestService\obj\Debug\DragonQuestService.dll
+C:\Projects\_WebServices\DragonQuestService\DragonQuestService\obj\Debug\DragonQuestService.pdb
