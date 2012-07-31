@@ -19,6 +19,8 @@ namespace DragonQuestService
         {
             Model.Player rtnPlayer = new Model.Player();
 
+            rtnPlayer.Id = 1;
+            rtnPlayer.Name = "Newb";
 
 
             return rtnPlayer;
