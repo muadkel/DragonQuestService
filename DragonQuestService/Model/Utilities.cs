@@ -192,7 +192,7 @@ namespace NPSP.Model
 
             //Lets remove the junk that makes this function think its a string
             //Trim off any white space and remove all commas.
-            //This is all I(Jon Morin) found to cause this to not validate correctly.
+            //This is all I(Muad Kel Bask) found to cause this to not validate correctly.
             //You may remove other junk the same way I did below.
             numberString = numberString.Trim();
             numberString = numberString.Replace(",", "");
